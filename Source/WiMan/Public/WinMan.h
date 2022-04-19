@@ -20,6 +20,8 @@ public:
 	UPROPERTY(BlueprintReadWrite, VisibleAnywhere, Category = "Data")
 		FVector2D MousePosOffset;
 
-	UPROPERTY(BlueprintReadWrite, VisibleAnywhere, Category = "Settings")
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Settings")
 		bool bIsDragEnable = true;
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Settings")
+		bool bEnableDebug = false;
 };
