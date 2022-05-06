@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.1.1",
 	"FriendlyName": "WiMan",
-	"Description": "",
+	"Description": "A tool that allows you to create draggable and resizable widgets.",
 	"Category": "Miscellaneous",
 	"CreatedBy": "whiteex",
 	"CreatedByURL": "https://dev-whiteex.github.io/",
@@ -11,7 +11,7 @@
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
-	"IsBetaVersion": true,
+	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"Modules": [
